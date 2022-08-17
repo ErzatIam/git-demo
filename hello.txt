@@ -16,3 +16,4 @@ hello Erzat! hello Git!
 hello Erzat! hello Git! gitee test
 hello Erzat! hello Git! master test
 hello Erzat! hello Git!	hot fix test
+by clone
