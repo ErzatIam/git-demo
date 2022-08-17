@@ -1,5 +1,5 @@
-hello Erzat! hello Git!         22222222
-hello Erzat! hello Git!          33333333
+hello Erzat! hello Git!         22222
+hello Erzat! hello Git!         33333
 hello Erzat! hello Git!
 hello Erzat! hello Git!
 hello Erzat! hello Git!
